@@ -1,6 +1,6 @@
 ## Welcome to Jake's Digital Portfolio
 
-You can use the [editor on GitHub](https://github.com/JayKah13/JakeMorgan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CS Reading Log(https://docs.google.com/document/d/1im4LNYDzjoMZefkZLOskKEwncuiHlSc5dO3fJdOBIwg/edit) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
