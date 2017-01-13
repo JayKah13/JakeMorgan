@@ -1,6 +1,6 @@
 ## Welcome to Jake's Digital Portfolio
 
-CS Reading Log(https://docs.google.com/document/d/1im4LNYDzjoMZefkZLOskKEwncuiHlSc5dO3fJdOBIwg/edit) 
+CS Reading Log (https://docs.google.com/document/d/1im4LNYDzjoMZefkZLOskKEwncuiHlSc5dO3fJdOBIwg/edit) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
